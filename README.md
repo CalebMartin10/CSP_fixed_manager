@@ -1,1 +1,3 @@
 # CSP_fixed_manager
+Inside this repository is three programs; contact_manager, buggy_contacts, & test_contact_manager. The buggy_contacts was the original program I worked off of & refactored. The contact manager is the main program logic (the code you actually want to run). The test_contact_manager is a tool to check if the contact_manager is working. TO use this tool, download the contact_manager and the test_contact_manager & put them in the same folder. Run the main module and use the other module to diagnose problem that occur.
+Video explaining how the code works: https://youtu.be/dJfTMW500bw
